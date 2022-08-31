@@ -1,1 +1,1 @@
-Script to delete a non-empty directory
+Script to change to previous directory
