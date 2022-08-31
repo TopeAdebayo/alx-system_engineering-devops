@@ -1,1 +1,1 @@
-Script to list files(incld hidden) in diff directories
+Script to print a type of file
