@@ -1,1 +1,1 @@
-I'm writing a cd shell script
+I'm writing a ls -l shell script
