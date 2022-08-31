@@ -1,1 +1,1 @@
-Script to del all files in a current working DIR.
+Script to create multiple parent directories
