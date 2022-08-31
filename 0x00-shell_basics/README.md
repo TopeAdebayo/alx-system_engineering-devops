@@ -1,1 +1,1 @@
-I'm writing a ls -la script
+I'm writing a ls -lan script
