@@ -1,1 +1,1 @@
-Script to print a type of file
+Script to create a symbolic link
