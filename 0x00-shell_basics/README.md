@@ -1,1 +1,1 @@
-Script to create multiple parent directories
+Script to list all files and directories with comma(,)
