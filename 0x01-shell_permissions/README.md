@@ -1,1 +1,1 @@
-Script to change mode of a file to a given mode
+Script that gives everybody execute permission in all subdirectories of a current directory
