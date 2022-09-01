@@ -1,1 +1,1 @@
-Script to change owner of a file with condition
+Script to play the StarWars IV episode in the terminal
