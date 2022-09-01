@@ -1,1 +1,1 @@
-Script that gives execution permission of a file to everybody
+Script that gives only other users all the permissions
