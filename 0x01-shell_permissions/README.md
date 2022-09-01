@@ -1,1 +1,1 @@
-script to switch current user to a given user
+script to print the effective username of the current user
