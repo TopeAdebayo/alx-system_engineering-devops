@@ -1,1 +1,1 @@
-Script to add execute permission and read permission to a file
+Script that gives execution permission of a file to everybody
