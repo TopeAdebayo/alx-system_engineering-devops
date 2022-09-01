@@ -1,1 +1,1 @@
-Script that changes ownership of file with symbolic link
+Script to change owner of a file with condition
