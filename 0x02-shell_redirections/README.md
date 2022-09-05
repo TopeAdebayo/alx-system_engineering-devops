@@ -1,1 +1,1 @@
-Write a script that displays the first 10 lines of a file
+Write a script that displays a particular line of a file
