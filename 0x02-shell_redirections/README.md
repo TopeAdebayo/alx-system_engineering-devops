@@ -1,1 +1,1 @@
-shell redirections task
+Write a script that displays a confused smiley
