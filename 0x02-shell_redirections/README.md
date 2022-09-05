@@ -1,1 +1,1 @@
-Write a script that displays the content of a file
+Write a script that displays the content of two files
