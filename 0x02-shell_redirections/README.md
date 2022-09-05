@@ -1,1 +1,1 @@
-Write a script that display the lines containing a paticular trend from a file
+Write a script that displays all the lines in the file that does not contain a certain word”.
