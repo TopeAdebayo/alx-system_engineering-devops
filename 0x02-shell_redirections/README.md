@@ -1,1 +1,1 @@
-Write a script that displays all the lines in the file that does not contain a certain word”.
+Write a script that displays all lines of a file starting with a letter
