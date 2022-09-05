@@ -1,1 +1,1 @@
-Write a script takes a list of words as input and prints only words that appear exactly once
+Write a script that display lines containing a paticular trend from a file
