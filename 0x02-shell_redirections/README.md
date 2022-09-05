@@ -1,1 +1,1 @@
-Write a script that displays all lines of a file starting with a letter
+Write a script that replaces a set of letters with another set of letters
