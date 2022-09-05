@@ -1,1 +1,1 @@
-Write a script that display lines containing a paticular trend from a file
+Write a script that display the number of lines containing a paticular trend from a file
