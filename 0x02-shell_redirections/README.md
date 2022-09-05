@@ -1,1 +1,1 @@
-Write a script that creates a file containing a text
+Write a script that writes into a file the result of a command
